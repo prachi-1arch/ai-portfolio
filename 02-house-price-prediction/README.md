@@ -83,7 +83,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 python train.py --config config.yaml
 
-📈 Results
+## 📈 Results
 | Metric          | Value    |
 | --------------- | -------- |
 | **RMSE**        | \$12,450 |
@@ -92,14 +92,14 @@ python train.py --config config.yaml
 | **Kaggle Rank** | Top 5%   |
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 [ ] Add geospatial features with GeoPandas
 [ ] Implement stacking ensemble with neural networks
 [ ] Add price trend forecasting component
 [ ] Deploy to Azure Container Instances
-📝 License
+## 📝 License
 MIT License
-<div align="center">
+## <div align="center">
 Built with ❤️ by Prachi Desai
 </div>
 ```
