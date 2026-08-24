@@ -65,7 +65,7 @@ pip install -r requirements.txt
 # Run the API
 uvicorn app:app --reload
 
-📈 Results
+## 📈 Results
 | Metric        | Value |
 | ------------- | ----- |
 | **Accuracy**  | 91.2% |
@@ -74,18 +74,21 @@ uvicorn app:app --reload
 | **F1-Score**  | 88.1% |
 | **AUC-ROC**   | 0.94  |
 
-Business Impact:
+##  Business Impact:
 Identified 2,400 high-risk customers in first month
 Retention campaigns reduced churn by 22%
-🔮 Future Improvements
+##  🔮 Future Improvements
 [ ] Add real-time streaming with Kafka
 [ ] Implement A/B testing framework for retention campaigns
 [ ] Add automated retraining pipeline with MLflow
 [ ] Deploy to Azure Kubernetes Service
-📝 License
+##  📝 License
 This project is licensed under the MIT License.
 
+
 <div align="center">
+
 Built with ❤️ by Prachi Desai
+
 </div>
 ```
