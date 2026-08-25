@@ -1,13 +1,13 @@
 # House Price Prediction
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=flat-square&logo=catboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-&lt;/div&gt;
+</div>
 
 ## 🎯 Problem Statement
 
@@ -99,7 +99,6 @@ python train.py --config config.yaml
 [ ] Deploy to Azure Container Instances
 ## 📝 License
 MIT License
-## <div align="center">
+<div align="center">
 Built with ❤️ by Prachi Desai
 </div>
-```
