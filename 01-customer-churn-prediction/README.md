@@ -15,6 +15,7 @@
 A telecom client was experiencing 15% annual customer churn. The goal was to build a predictive model that identifies at-risk customers 30 days before churn, enabling proactive retention campaigns.
 
 ## 🏗️ Architecture
+```
 Raw Data (SQL Server)
 ↓
 ETL Pipeline (Python/Pandas)
@@ -28,7 +29,7 @@ SHAP Explainability Layer
 FastAPI REST Service
 ↓
 Power BI Monitoring Dashboard
-
+```
 ## 🛠️ Tech Stack
 
 | Category | Technology |
