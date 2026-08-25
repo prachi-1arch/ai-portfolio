@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white)
@@ -8,7 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-&lt;/div&gt;
+</div>
 
 ## 🎯 Problem Statement
 
